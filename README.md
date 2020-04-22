@@ -5,6 +5,7 @@
 [Company Website](https://robinhood.com/us/en/)
 ![robinhood-logo](robinhood-preview.PNG)
 
+
 ---
 ### Overview and Origin
 
