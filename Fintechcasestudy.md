@@ -77,3 +77,5 @@
 * https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/ (robo adviser industry AUM analysis)
 
 * https://www.brokerage-review.com/investing-firm/assets-under-management/robinhood-aum.aspx (Robinhood AUM analysis)
+
+
